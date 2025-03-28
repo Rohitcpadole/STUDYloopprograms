@@ -35,7 +35,7 @@ namespace loopprograms
                 num1++;
             }
             Console.WriteLine("------------------------------------------");
-            ///1.WAP to print table of user defined number
+            ///2.WAP to print table of user defined number
             int tablenumber,i=1;
             Console.WriteLine("Please Enter Any Number");
             tablenumber = Convert.ToInt32(Console.ReadLine());
@@ -46,7 +46,7 @@ namespace loopprograms
                 i++;
             }
             Console.WriteLine("---------------User Entered Table---------------------------");
-            ///1.WAP to print table of user defined number
+            ///3.WAP to print table of user defined number
             int table;
             i = 1;
             Console.WriteLine("Please Enter Any Number");
@@ -62,7 +62,7 @@ namespace loopprograms
                 i++;
             }
             Console.WriteLine("-----------------Reverse Number-------------------------");
-            ///1.WAP to print table of user defined number
+            ///4.WAP to print table of user defined number
             int reverse;
             Console.WriteLine("Please Enter Any Number");
             reverse = Convert.ToInt32(Console.ReadLine());
