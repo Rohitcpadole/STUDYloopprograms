@@ -73,7 +73,7 @@ namespace loopprograms
                 reverse--;
             }
             Console.WriteLine("------------------For Loop------------------------");
-            ///25.For Loop
+            ///25.For Loop 
             ///Syntax:
             ///for(initialization;condition;updation)
             ///{
