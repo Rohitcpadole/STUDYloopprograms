@@ -113,7 +113,7 @@ namespace loopprograms
             //power=4
             for (i = 1; i <= power; i++)
             {
-                result=result* basevalue;
+                result=result* basevalue;   
                 
             }
             Console.WriteLine(power+" Power of "+basevalue+" is = "+result);
